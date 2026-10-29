@@ -68,17 +68,6 @@ Saya adalah seorang **Software Engineer** dengan fokus pada pengembangan aplikas
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 <div align="center">

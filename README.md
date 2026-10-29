@@ -69,7 +69,3 @@ Saya adalah seorang **Software Engineer** dengan fokus pada pengembangan aplikas
 ---
 
 ---
-
-<div align="center">
-  <sub>Didesain dengan dedikasi oleh <a href="https://github.com/USERNAME_GITHUB">Daffa Ikhwan Nurfauzan</a> 🚀</sub>
-</div>
